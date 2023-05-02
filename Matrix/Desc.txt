@@ -1,0 +1,1 @@
+A simple C++ program made using the graphics.h library that prints random green letters of random lenght to the screen
