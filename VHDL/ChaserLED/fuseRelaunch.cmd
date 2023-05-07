@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/ChaserLED/Chaser_w_isim_beh.exe" -prj "/home/ise/ChaserLED/Chaser_w_beh.prj" "work.Chaser_w" 

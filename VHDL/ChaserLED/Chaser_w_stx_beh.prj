@@ -1,0 +1,2 @@
+vhdl isim_temp "Chaser.vhd"
+vhdl isim_temp "Chaser_w.vhd"

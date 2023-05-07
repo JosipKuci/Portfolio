@@ -1,0 +1,28 @@
+Command line:
+   Chaser_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52962
+
+Sun May  7 08:54:21 2023
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 198.722 Meg
+
+ Total Signals          : 4
+ Total Nets             : 18
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 3
+ Total Processes        : 2
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 501
+
+ Total Simulation Time: 0.07 sec
+
+ Current Memory Usage: 276.32 Meg
+
+Sun May  7 08:54:48 2023
+
